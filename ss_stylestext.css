@@ -1,0 +1,74 @@
+/* Project 3
+New parenting Guide */
+
+
+
+
+/* Body Styles */
+Body { /*added background for project 4  step 2*/
+	background: purple url(background.jpg) ;
+	background-size: 100%, 100%; 
+}
+/* Div Styles*/
+
+div {
+  background-color: lightblue;
+  font-size: 25px;
+  
+}
+/*Heading style for h1*/
+
+h1 { 
+color: blue;
+background-color: pink;
+font-size: 40px;
+
+}
+/* Heading style for h2*/
+
+h2 {
+	color: white;
+	font-size: 25px;
+}
+
+/*heading style for h3*/
+
+h3 
+{ color: black
+	font-size: 20px;
+}
+/**/
+nav ul li:hover {
+	background-color:yellow;
+}
+/* added rollover element */
+
+
+/* Float picture to the left of the text project 4*/
+#intro figure {
+	float: left;
+} 
+/* rounded corners project 4 for one image*/
+#image2 {
+  border-radius: 50%;
+}
+
+/* adding margin and padding to div object extra  project 4*/
+#extra {
+	background-color: pink;
+	float: left;
+	padding: 1px;
+	border: 1px solid purple;
+	margin: 3%;
+}
+/* add outline  project 4 */
+#four h2{
+	outline: 3px solid black;
+}
+#picture
+	{
+		position: absolute;
+		left: 650px;
+		top: 350px;
+	}
+

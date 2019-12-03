@@ -1,0 +1,19 @@
+/* Dispay html elements as blocks
+Reset style sheet
+project 4
+amanda proffit
+*/
+article, aside, body, header, section, footer, nav {
+display: block; 
+}
+
+Body *  { 
+		font-family: Verdana, Geneva, sans-serif;
+	font-size: 100%;
+	font-weight: inherit;
+	line-height: 1.2em;
+	line-style: none;
+	margin: 0px;
+	padding: 0px;
+	vertical-align: basline;
+}
